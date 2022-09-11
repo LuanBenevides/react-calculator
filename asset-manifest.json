@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/LuanBenevides/react-calculator/public/index.html/static/css/main.b947b582.css",
-    "main.js": "/LuanBenevides/react-calculator/public/index.html/static/js/main.002b8995.js",
-    "static/media/RobotoMono-Thin.ttf": "/LuanBenevides/react-calculator/public/index.html/static/media/RobotoMono-Thin.1a9534fd24de76752477.ttf",
-    "index.html": "/LuanBenevides/react-calculator/public/index.html/index.html",
-    "main.b947b582.css.map": "/LuanBenevides/react-calculator/public/index.html/static/css/main.b947b582.css.map",
-    "main.002b8995.js.map": "/LuanBenevides/react-calculator/public/index.html/static/js/main.002b8995.js.map"
+    "main.css": "/react-calculator/static/css/main.bcf49fb1.css",
+    "main.js": "/react-calculator/static/js/main.002b8995.js",
+    "static/media/RobotoMono-Thin.ttf": "/react-calculator/static/media/RobotoMono-Thin.1a9534fd24de76752477.ttf",
+    "index.html": "/react-calculator/index.html",
+    "main.bcf49fb1.css.map": "/react-calculator/static/css/main.bcf49fb1.css.map",
+    "main.002b8995.js.map": "/react-calculator/static/js/main.002b8995.js.map"
   },
   "entrypoints": [
-    "static/css/main.b947b582.css",
+    "static/css/main.bcf49fb1.css",
     "static/js/main.002b8995.js"
   ]
 }
