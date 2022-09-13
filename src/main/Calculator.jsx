@@ -13,7 +13,7 @@ const initialState = {
 }
 export default class Calculator extends Component {
 
-    //inicia com o estado inicial zerado - herda as propriedades de initialState;
+    //inicia com o estado zerado - herda as propriedades de initialState;
     state = {...initialState}
 
     constructor(props){
@@ -32,7 +32,7 @@ export default class Calculator extends Component {
         if (this.state.current === 0){
             this.setState({ operation, current: 1, clearDisplay: true })
         }else{
-            const igualdade = operation === '-'
+            const igualdade = operation === '='
             const currentOperation = this.state.operation
 
             const values = [...this.state.values]
